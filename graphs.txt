@@ -1,0 +1,20 @@
+
+Business Analysis Report
+Generated on May 16, 2025
+
+Business Overview:
+- Problem: Sample problem description
+- Target Customers: Sample target customers
+- Solution: Sample solution
+- Key Resources: Sample key resources
+- Revenue Streams: Monthly subscription: $10/month, Premium tier: $50/month
+
+Graphs generated:
+- Revenue Distribution (pie chart)
+- Revenue Projection (12 months line chart)
+- Customer Growth Projection (24 months line chart)
+- Market Position Analysis (quadrant chart)
+- Resource Allocation (bar chart)
+
+For a full interactive report, please see the HTML version in the graphs directory.
+        

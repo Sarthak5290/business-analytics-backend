@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+python-dotenv
+imgkit
+langchain-groq
+gunicorn
